@@ -1,5 +1,3 @@
-﻿# IMDB-Movies---Up-to-May-2024
-
  # Projeto de Análise de Dados de Filmes
 
 E aí, pessoal! Beleza? Esse é o projeto que fiz para analisar um montão de dados sobre filmes. A ideia é dar uma olhada em várias coisas, tipo título, ano de lançamento, duração, nota no IMDB e mais um monte de coisa.
